@@ -23,7 +23,7 @@ repository               : "jeannot-trampert/jeannot-trampert.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG-20261121-WA0001.jpg"
+  avatar           : #"IMG-20261121-WA0001.jpg"
   name             : "About me"
   pronouns         : # example: "she/her"  
   bio              : "I am a Luxembourgish geophysicist. I studied mathematics, physics and later geophysics at Strasbourg University, where I also obtained my doctorate and habilitation. After my PhD, I was a postdoctoral scholar at Oxford University, before accepting a permanent post at Ecole et Observatoire des Sciences de la Terre in Strasbourg. Later I moved to the Department of Earth Sciences at Utrecht University, where I stayed until now"
@@ -77,7 +77,7 @@ author:
   twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
+  wikipedia        : "https://lb.wikipedia.org/wiki/Jeannot_Trampert" # Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username

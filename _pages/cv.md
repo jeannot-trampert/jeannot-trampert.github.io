@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "A short CV of mine"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD awarded in 1990, Institut de Physique du Globe (IPG, now Ecole et Observatoire des Sciences de la Terre), Strasbourg University, France*
+* PhD awarded in 1990, Institut de Physique du Globe (IPG --> now Ecole et Observatoire des Sciences de la Terre), Strasbourg University, France*
 * Habilitation awarded in 2001, IPG, Strasbourg University, France
 
 
@@ -31,8 +31,8 @@ Fellowship and Awards
 * 2018: Elected member of The Royal Netherlands Academy of Arts and Sciences
 * 2016: Elected member of Academia Europaea 
 * 2012: ERC Advanced Grant, EU
-* 2012: Grand Prix en Sciences Géologiques de l’Institut Grand-Ducal du Luxembourg https://lb.wikipedia.org/wiki/Jeannot_Trampert
-* 2012: Elected honorary member of the Science Section, Institut Grand-Ducal du Luxembourg https://www.igdss.lu
+* 2012: Grand Prix en Sciences Géologiques de l’Institut Grand-Ducal du Luxembourg
+* 2012: Elected honorary member of the Science Section, Institut Grand-Ducal du Luxembourg
 * 2010: Personal top-grant (Top-subsidie), Dutch National Science Foundation, NWO
 * 1990: Personal Marie Sklodowska-Curie Fellowship, EU 
   

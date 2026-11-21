@@ -26,7 +26,7 @@ author:
   avatar           : #"IMG-20261121-WA0001.jpg"
   name             : "About me"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Luxembourgish geophysicist. I studied mathematics, physics and later geophysics at Strasbourg University, where I also obtained my doctorate and habilitation. After my PhD, I was a postdoctoral scholar at Oxford University, before accepting a permanent post at Ecole et Observatoire des Sciences de la Terre in Strasbourg. Later I moved to the Department of Earth Sciences at Utrecht University, where I stayed until now"
+  bio              : # ""
   location         : #"Earth"
   employer         : "Utrecht University"
   uri              : "https://www.uu.nl/staff/JATrampert"

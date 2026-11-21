@@ -23,8 +23,8 @@ repository               : "jeannot-trampert/jeannot-trampert.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"IMG-20261121-WA0001.jpg"
-  name             : "About me"
+  avatar           : "IMG-20261121-WA0001.jpg"
+  name             : #"About me"
   pronouns         : # example: "she/her"  
   bio              : # ""
   location         : #"Earth"

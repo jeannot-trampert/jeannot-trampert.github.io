@@ -45,6 +45,7 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
+  wikipedia        : "https://lb.wikipedia.org/wiki/Jeannot_Trampert" # Username
 
 
   # Repositories and software development

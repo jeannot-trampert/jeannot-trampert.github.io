@@ -24,49 +24,33 @@ Work experience
 * 1993 - 1996: Physicien adjoint, IPG, Strasbourg University, France
 * 1990 - 1993: Marie Curie Fellow, Department of Earth Sciences, Oxford University, UK
 * 1987 - 1990: Research and teaching assistant, IPG, Strasbourg University, France
-
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
+Fellowship and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2027: Beno Gutenberg medal of the European Geosciences Union
+* 2018: Elected member of The Royal Netherlands Academy of Arts and Sciences
+* 2016: Elected member of Academia Europaea 
+* 2012: ERC Advanced Grant, EU
+* 2012: Grand Prix en Sciences Géologiques de l’Institut Grand-Ducal du Luxembourg https://lb.wikipedia.org/wiki/Jeannot_Trampert
+* 2012: Elected honorary member of the Science Section, Institut Grand-Ducal du Luxembourg https://www.igdss.lu
+* 2010: Personal top-grant (Top-subsidie), Dutch National Science Foundation, NWO
+* 1990: Personal Marie Sklodowska-Curie Fellowship, EU 
+  
+Service past and present
+======
+* 2021 – 2023: Chairman of the Earth Sciences Section and member of the board of the Natural and Technical Sciences Domain of The Royal Netherlands Academy of Arts and Sciences
+* 2019 – today: Member of the Board of Governors, Luxembourg University
+* 2015 - 2021: ERC advanced grant P10 panel chair
+* 2014 - 2016: Board Member, Earth and Life Sciences Section, Dutch National Science Foundation (NWO), The Netherlands
+* 2012 - 2018: Member Scientific Council, European Centre for Geodynamics and Seismology, Luxembourg
+* 2012 - 2017: Member Programme Committee ‘Computational sciences for energy research’ FOM-Shell, NWO, The Netherlands
+* 2011: Member, Proposal Committee, Equipment d’Excellence, ANR, France
+* 2010 - 2012: Selection Committee Member, Institut Universitaire de France
+* 2009 - 2015: Director of Research, Department of Earth Sciences, Utrecht University
+* 2009 - 2014: Member Computational Science Committee, Lorentz Center, The Netherlands
+* 2009 - 2015: Editor-in-Chief, Geophysical Journal International
+* 2004 - 2009: Editor, Geophysical Journal International
+* 1998 - 2011: Chairman/Member Proposal Committee, NWO, The Netherlands
+* 1996 - 2024: NARS project manager, Department of Earth Sciences, Utrecht University
+* 1993 - 1994: GEOSCOPE, Strasbourg site manager
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a> together with downloads for most.</div>
 {% endif %}
 
- <section id="pageContent"> <mainall role="main">
+<section id="pageContent"> <mainall role="main">
 <article>
 <h2>
 <meta http-equiv="content-type" content="text/html;
@@ -19,13 +19,12 @@ Journal papers</h2>
 145. Rijal A., Cobden L., Trampert J., 2025. SeisTeC: A neural
 network tool to constrain mantle thermal and chemical
 properties from seismic observables, Phys. Earth Planet. Int,
-https://doi.org/10.1016/j.pepi.2025.107317. <a
-href="pdfs/pepi25-seistec.pdf">[PDF]</a><br>
+https://doi.org/10.1016/j.pepi.2025.107317. 
 <br>
 144. Fokker E., Ruigrok E., Trampert J., 2024. On the
 temperature sensitivity of near-surface seismic wave speeds:
 Application to the Groningen region, the Netherlands, Geophys.
-J. Int., 237, 1129–1141. <a href="pdfs/gji24-temp.pdf">[PDF]</a><br>
+J. Int., 237, 1129–1141. 
 <br>
  143. Cobden L., Zhuang Y., Lei W., Wentzcovitch R. Trampert
 J., Tromp J., 2024. Full-waveform tomography reveals iron spin
@@ -924,10 +923,10 @@ retrieving local near-surface material information
 </mainall> </section>  
 
 <!-- JT
-{% include base_path %}
+{% include base_path %} -->
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -946,6 +945,5 @@ retrieving local near-surface material information
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
 -->
 

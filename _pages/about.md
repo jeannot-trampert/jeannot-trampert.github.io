@@ -20,7 +20,7 @@ In parallel, I investigated how machine learning could be harnessed for solving 
 
 In general, my work is characterized by a synergy between observations and theoretically strong methodologies for quantitative analysis and interpretation. 
 
-Besides all the work on Earth's structure, I also got interested in the physics of the seismic ruptures, where I developed a new approach for earthquake early warning based on neural networks. Recently, with a large interdisciplinary group, I started applying statistical physics techniques to observed scaling laws of earthquakes, establishing that earthquakes should in principle be predictable (at least their statistics) as they present long-range spatio-temporal correlations. I am now focussing on the elusive earthquake forecasting problem using symbolic regression to extract unknown physics from data.
+Besides all this work on Earth's structure, I also got interested in the physics of the seismic sources, where I developed a new approach for earthquake early warning based on neural networks. Recently, with a large interdisciplinary group, I started applying statistical physics techniques to observed scaling laws of earthquakes, establishing that earthquakes should in principle be predictable (at least their statistics) as they present long-range spatio-temporal correlations. I am now focussing on the elusive earthquake forecasting problem using symbolic regression to extract unknown physics from data.
 
 ### Acknowledgments
 All this work would not have been possible without dedicated and exceptionally gifted PhD candidates and post-doctoral scholars. Many of my former group members now occupy leading positions in industry and academia. 

@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD awarded in 1990, Institut de Physique du Globe (IPG --> now Ecole et Observatoire des Sciences de la Terre), Strasbourg University, France*
+* PhD awarded in 1990, Institut de Physique du Globe (IPG --> now Ecole et Observatoire des Sciences de la Terre), Strasbourg University, France
 * Habilitation awarded in 2001, IPG, Strasbourg University, France
 
 

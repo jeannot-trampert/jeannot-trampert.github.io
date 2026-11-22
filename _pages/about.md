@@ -9,14 +9,14 @@ redirect_from:
 
 I am a Luxembourgish geophysicist. I studied mathematics, physics and later geophysics at Strasbourg University, where I also obtained my doctorate and habilitation. After my PhD, I was a postdoctoral scholar at Oxford University, before accepting a permanent post at Ecole et Observatoire des Sciences de la Terre in Strasbourg. Later, I moved to the Department of Earth Sciences at Utrecht University, where I stayed until now.
 
-### Some highlights
+### Some highlights of my work
 For about a century now, seismology has been a unique source of information on the (an)elastic and density structure of the Earth’s interior. A considerable difficulty is to relate the seismologically inferred structure to dynamic processes taking place within the Earth. During the last 30 years, in parallel with my continuing frontier work on refining and quantifying Earth’s structure, I have made a dedicated effort to constrain the dynamics of the Earth’s mantle and developed an integrated programme in seismology, mineral physics and later, in collaborative work, convection modelling. 
 
 I made major contributions to the field of seismic tomography by introducing automatic surface wave dispersion measurements and the innovative concept of probabilistic tomography, crucial for combining information from different disciplines. I obtained paradigm-changing results on the distribution of temperature and composition in the lower mantle and established for the first time the presence of anisotropy in the mid-mantle, which put new constraints on the mineralogy and dynamics of the transition zone. 
 
-I then turned my focus on full waveform inversion, where I made important technical contributions (e.g. resolution analysis and misfit functions in full waveform inversion). Work on imaging the deep structure revealed hitherto unknown flow patterns of the North Atlantic, thus elucidating details on the process of opening of the northern Atlantic Ocean. 
+I then turned my focus on full waveform inversion, where I mainly made technical contributions (e.g. resolution analysis and misfit functions in full waveform inversion, sensitivity kernels for receiver function and SS- and PP-precursors). Work on imaging the deep structure revealed hitherto unknown flow patterns of the North Atlantic, thus elucidating details on the process of opening of the northern Atlantic Ocean. 
 
-In parallel, I investigated how machine learning could be harnessed for solving suitable geophysical problems. Examples are the identification of seamounts using autoencoders and exploiting surface wave dispersion curves using Gaussian mixture networks. 
+In parallel, I investigated how machine learning could be harnessed for solving suitable geophysical problems by introducing the concept of prior sampling. Examples are the identification of seamounts using autoencoders and exploiting surface wave dispersion curves using Gaussian mixture networks. 
 
 In general, my work is characterized by a synergy between observations and theoretically strong methodologies for quantitative analysis and interpretation. 
 

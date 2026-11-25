@@ -16,6 +16,9 @@ main:
         
   - title: "CV"
     url: /cv/
+  
+  - title: "iGEO"
+    url: /iGEO/
     
 #  - title: "Guide"
 #    url: /markdown/
